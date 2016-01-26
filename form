@@ -1,0 +1,14 @@
+<html>
+	<head>
+		<title>forms get</title>
+	</head>
+	<body>
+		<form action=“https://httpbin.org/get” method=“get”>
+		<input type=“date” name=“date” />
+		<input type=“password” name=“password” />
+		<input type=“email” name=“email” />
+		<textarea name=“Text Box”>This is where you would enter text.</textarea>
+		<input type=“submit” value=“value” />
+		</form>
+	</body>
+</html>
